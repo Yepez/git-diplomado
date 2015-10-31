@@ -1,2 +1,2 @@
 # git-diplomado
-Aprendiendo a usar git con el diplomado
+Aprendiendo a usar git en el diplomado
